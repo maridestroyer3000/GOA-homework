@@ -10,8 +10,8 @@ def add(num1, num2):
 
 #3
 
-def multiply(5, 4):
-    return 5 * 4
+def multiply(num3, num4):
+    return num3 * num4
 
 #4
 # პარამეტრი გამოიყენება ფუნქციის შექმნის დროს
